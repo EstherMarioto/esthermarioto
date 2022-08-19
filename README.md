@@ -1,5 +1,5 @@
-## Olá! Eu sou a Esther Marioto
-
+## Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou a Esther Marioto   
+<img src="https://komarev.com/ghpvc/?username=esthermarioto&color=blue"/>
 <div align="center">
   <a href="https://github.com/EstherMarioto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esthermarioto&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br"/>
