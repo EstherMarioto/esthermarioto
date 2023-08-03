@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/EstherMarioto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <br/>
 
-   ![Snake animation](https://github.com/esthermarioto/esthermarioto/blob/output/github-contribution-grid-snake.svg)
+   <!-- ![Snake animation](https://github.com/esthermarioto/esthermarioto/blob/output/github-contribution-grid-snake.svg) -->
 </div>
    
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=120&section=footer"/>
