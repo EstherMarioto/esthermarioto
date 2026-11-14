@@ -27,25 +27,22 @@ Busco constantemente evoluir minhas habilidades e construir soluções eficiente
 ## 🚀 Tecnologias
 
 **Front-end:**  
-React • React Native • Next.js • TypeScript • Vue.js • HTML • CSS • JavaScript • TailwindCSS • Framer Motion • Expo
+React • React Native • Next.js • TypeScript • Vue.js • HTML • CSS • JavaScript • TailwindCSS • Framer Motion • Expo • Bootstrap
 
 **Back-end:**  
-Laravel • PHP • Node.js • Adonis.js
+Laravel • PHP • Node.js • APIs REST
 
 **Banco de dados:**  
 MySQL • PostgreSQL
 
+**Infra:**  
+Docker • Git • Linux • CPanel/WHM
+
+**IA:**  
+Claude Code • OpenAI Codex • Cursor • GitHub Copilot 
+
 **Ferramentas:**  
-Figma • Postman • Git • GitHub • Vite • Docker • Vercel • VS Code • Jira • Slack  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=esthermarioto&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esthermarioto&layout=compact&theme=radical"/>
-</p>
+Figma • Postman • Vercel • VS Code • Jira • Slack  
 
 ---
 
